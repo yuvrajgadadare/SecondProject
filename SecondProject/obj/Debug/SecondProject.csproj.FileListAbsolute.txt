@@ -1,0 +1,7 @@
+C:\pooja sutar\SecondProject\SecondProject\bin\Debug\SecondProject.exe.config
+C:\pooja sutar\SecondProject\SecondProject\bin\Debug\SecondProject.exe
+C:\pooja sutar\SecondProject\SecondProject\bin\Debug\SecondProject.pdb
+C:\pooja sutar\SecondProject\SecondProject\obj\Debug\SecondProject.csproj.AssemblyReference.cache
+C:\pooja sutar\SecondProject\SecondProject\obj\Debug\SecondProject.csproj.CoreCompileInputs.cache
+C:\pooja sutar\SecondProject\SecondProject\obj\Debug\SecondProject.exe
+C:\pooja sutar\SecondProject\SecondProject\obj\Debug\SecondProject.pdb
